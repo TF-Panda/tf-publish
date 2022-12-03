@@ -1,0 +1,11 @@
+desktop.ini
+tfcache/
+etc/Config-user.prc
+*.lib
+*.pdb
+*.pyc
+*.pyo
+*.exp
+*.pdb
+__pycache__
+index_name.txt
